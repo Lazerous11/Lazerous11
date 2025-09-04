@@ -2,7 +2,8 @@
 
 <!--
 **Lazerous11/Lazerous11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ I'm Lazizbek and I will be attending the University of Chicago this Fall
+ I am currently working on my GitHub ReadMe, I'm not learning anything too deep at the moment
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
